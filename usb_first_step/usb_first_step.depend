@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612712859 source:d:\programdata\codeblocks\msc-51\fx2lp\usb_first_step\interrupts.c
+	"D:\ProgramData\CodeBlocks\msc-51\fx2lp\fx2lp_reg.h"
+
+1612785034 d:\programdata\codeblocks\msc-51\fx2lp\fx2lp_reg.h
+
+1612778268 source:d:\programdata\codeblocks\msc-51\fx2lp\usb_first_step\main.c
+	"D:\ProgramData\CodeBlocks\msc-51\fx2lp\fx2lp_reg.h"
+
+1610742187 source:d:\programdata\codeblocks\msc-51\fx2lp\usb_first_step\interrupts_usb.c
+	"D:\ProgramData\CodeBlocks\msc-51\fx2lp\fx2lp_reg.h"
+
+1612713278 source:d:\programdata\codeblocks\msc-51\fx2lp\usb_first_step\table.c
+	"D:\ProgramData\CodeBlocks\msc-51\fx2lp\fx2lp_reg.h"
+

@@ -1,0 +1,21 @@
+-muwx
+-i D:\ProgramData\CodeBlocks\msc-51\fx2lp\usb_first_step\out\first_step.hex
+-M
+-b HOME = 0x0000
+-b XSEG = 0x0001
+-b PSEG = 0x0001
+-b ISEG = 0x0000
+-b BSEG = 0x0000
+-bUSB_INTERRUPTS=0x2000
+-bTABLE=0x1000
+-k d:\sdcc\bin\..\lib\small
+-l mcs51
+-l libsdcc
+-l libint
+-l liblong
+-l libfloat
+D:\ProgramData\CodeBlocks\msc-51\fx2lp\usb_first_step\out\main.rel
+D:\ProgramData\CodeBlocks\msc-51\fx2lp\usb_first_step\out\interrupts.rel
+D:\ProgramData\CodeBlocks\msc-51\fx2lp\usb_first_step\out\table.rel
+
+-e
